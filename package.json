@@ -1,0 +1,12 @@
+{
+  "name": "CacheNodejsRedis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "ioredis": "^4.22.0"
+  }
+}
